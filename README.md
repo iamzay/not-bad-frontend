@@ -13,5 +13,5 @@
   css-tricks\入门指南
 * [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)  
   W3 Flexbox模块文档
-* [Flexbox Patterns](http://www.flexboxpatterns.com/stepper-input)
+* [Flexbox Patterns](http://www.flexboxpatterns.com/stepper-input)  
   用Flexbox完成的小组件
