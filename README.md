@@ -10,7 +10,7 @@
   学习css选择器
 ### flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-  css-tricks上一个不错的入门指南
+  css-tricks\入门指南
 * [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)  
   W3 Flexbox模块文档
 * [Flexbox Patterns](http://www.flexboxpatterns.com/stepper-input)
