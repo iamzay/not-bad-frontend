@@ -15,3 +15,5 @@
   W3 Flexbox模块文档
 * [Flexbox Patterns](http://www.flexboxpatterns.com/stepper-input)  
   用Flexbox完成的小组件
+* [CSS Flexbox 学习指南、工具与框架](http://www.jianshu.com/p/bfd11e45efa9)  
+  
