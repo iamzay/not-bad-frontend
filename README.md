@@ -18,5 +18,11 @@
 * [CSS Flexbox 学习指南、工具与框架](http://www.jianshu.com/p/bfd11e45efa9)  
 * [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)  
   A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. 
+
+## React
+* [Under-the-hood-ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)  
+  Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
+* [http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more](http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
+  The all-in-one beginner’s guide to modern React application development.
   
   
