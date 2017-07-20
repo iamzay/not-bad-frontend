@@ -2,6 +2,12 @@
 ## frontend
 * [frontend-guidelines](https://github.com/bendc/frontend-guidelines)  
   Some HTML, CSS and JS best practices.
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
+  A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+* [front-end-collect](https://github.com/foru17/front-end-collect)  
+  分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+* [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial)  
+  Cat's front memory, these share data are from my usual work and learning
 
 ## CSS
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)  
