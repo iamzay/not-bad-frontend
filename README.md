@@ -8,6 +8,8 @@
   分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 * [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial)  
   Cat's front memory, these share data are from my usual work and learning
+* [awesome-frontend](https://github.com/JingwenTian/awesome-frontend)  
+  A curated list of amazingly awesome frontend libraries, resources and shiny things.
 
 ## CSS
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)  
