@@ -33,4 +33,6 @@
 * [http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more](http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
   The all-in-one beginner’s guide to modern React application development.
   
-  
+## Javascript
+* [project-guidelines](https://github.com/wearehive/project-guidelines)   
+  A set of best practices for JavaScript projects
