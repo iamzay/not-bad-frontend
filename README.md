@@ -36,3 +36,5 @@
 ## Javascript
 * [project-guidelines](https://github.com/wearehive/project-guidelines)   
   A set of best practices for JavaScript projects
+* [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)  
+  A book about functional programming in JavaScript.
