@@ -14,13 +14,8 @@
 ## CSS
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)  
   A collection of tips to help take your CSS skills pro
-* [CSS Diner](https://flukeout.github.io/)  
-  用游戏的方式学习css选择器
+
 ### flexbox
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-  css-tricks入门指南
-* [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)  
-  W3 Flexbox模块文档
 * [Flexbox Patterns](http://www.flexboxpatterns.com/stepper-input)  
   用Flexbox完成的小组件
 * [CSS Flexbox 学习指南、工具与框架](http://www.jianshu.com/p/bfd11e45efa9)  
@@ -32,6 +27,8 @@
   Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
 * [http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more](http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
   The all-in-one beginner’s guide to modern React application development.
+* [react-redux-links](https://github.com/markerikson/react-redux-links)  
+  Curated tutorial and resource links I've collected on React, Redux, ES6, and more
   
 ## Javascript
 * [project-guidelines](https://github.com/wearehive/project-guidelines)   
